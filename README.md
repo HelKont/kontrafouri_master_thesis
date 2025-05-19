@@ -2,7 +2,7 @@
 
 This repository contains the code, data, and resources used in my Master's thesis, which investigates how large language models, specifically LLAMA and BERT, handle subjectivity in natural language and where they fail.
 
-## 📚 Thesis Overview
+## Thesis Overview
 
 The thesis explores:
 - How LLAMA and BERT models differ in their handling of subjective versus objective language.
@@ -13,12 +13,12 @@ Two primary notebooks are used to structure the experiments:
 - `thesis_notebook_SUBJ`: Focuses on analyzing model predictions against the SUBJ dataset.
 - `thesis_notebook_news`: Applies models to real-world text, such as news content, to observe subjectivity trends and misclassifications.
 
-## 🧠 Models Used
+## Models Used
 
 - [LLAMA](https://huggingface.co/meta-llama/Llama-3.1-8B) (open-source large language model)
 - [BERT](https://huggingface.co/bert-base-uncased) (Bidirectional Encoder Representations from Transformers)
 
-## 📂 Repository Structure
+## Repository Structure
 
 ├── LICENSE # Open source license \
 ├── README.md # This file\
@@ -28,10 +28,10 @@ Two primary notebooks are used to structure the experiments:
 ├── thesis_notebook_news.ipynb # Notebook analyzing model behaviour on the news dataset\
 ├── veridicality.csv # Dataset used for evaluating veridicality in sentences\
 
-## 🔖 License
+## License
 This project is licensed under the terms of the LICENSE file.
 
-## ✍️ Author
+## Author
 Eleni Kontrafouri\
 Master's Thesis in Speech and Language Processing\
 University of Konstanz, 2024
