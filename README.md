@@ -20,13 +20,13 @@ Two primary notebooks are used to structure the experiments:
 
 ## 📂 Repository Structure
 
-├── LICENSE # Open source license
-├── README.md # This file
-├── nrc.csv # NRC Subjectivity Lexicon (words with subjectivity scores)
-├── subj_lex.csv # MPQA subjectivity lexicon (words and phrases annotated with subjectivity scores)
-├── thesis_notebook_SUBJ.ipynb # Notebook analyzing model behaviour on the SUBJ dataset
-├── thesis_notebook_news.ipynb # Notebook analyzing model behaviour on the news dataset
-├── veridicality.csv # Dataset used for evaluating veridicality in sentences
+├── LICENSE # Open source license \
+├── README.md # This file\
+├── nrc.csv # NRC Subjectivity Lexicon (words with subjectivity scores)\
+├── subj_lex.csv # MPQA subjectivity lexicon (words and phrases annotated with subjectivity scores)\
+├── thesis_notebook_SUBJ.ipynb # Notebook analyzing model behaviour on the SUBJ dataset\
+├── thesis_notebook_news.ipynb # Notebook analyzing model behaviour on the news dataset\
+├── veridicality.csv # Dataset used for evaluating veridicality in sentences\
 
 ## 🔖 License
 This project is licensed under the terms of the LICENSE file.
