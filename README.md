@@ -1,4 +1,7 @@
-# Subjectivity Mispredictions of LLAMA and BERT
+# Unveiling Subjectivity:
+Feature Engineering Insights
+and Comparative Analysis
+with Large Language Models
 
 This repository contains the code, data, and resources used in my Master's thesis, which investigates how large language models, specifically LLAMA and BERT, handle subjectivity in natural language and where they fail.
 
