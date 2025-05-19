@@ -15,7 +15,7 @@ Two primary notebooks are used to structure the experiments:
 
 ## 🧠 Models Used
 
-- [LLAMA]([https://huggingface.co/models](https://huggingface.co/meta-llama/Llama-3.1-8B)) (open-source large language model)
+- [LLAMA](https://huggingface.co/meta-llama/Llama-3.1-8B) (open-source large language model)
 - [BERT](https://huggingface.co/bert-base-uncased) (Bidirectional Encoder Representations from Transformers)
 
 ## 📂 Repository Structure
@@ -32,6 +32,6 @@ Two primary notebooks are used to structure the experiments:
 This project is licensed under the terms of the LICENSE file.
 
 ## ✍️ Author
-Eleni Kontrafouri
-Master's Thesis in Speech and Language Processing
+Eleni Kontrafouri\
+Master's Thesis in Speech and Language Processing\
 University of Konstanz, 2024
